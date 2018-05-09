@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AYBU</string>
+    <string name="tab_text_1">FOODLIST</string>
+    <string name="tab_text_2">ANNUNCIATION</string>
+    <string name="tab_text_3">NEWS</string>
+    <string name="action_settings">Settings</string>
+</resources>
